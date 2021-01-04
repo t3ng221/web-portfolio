@@ -1,11 +1,43 @@
 body{
+    margin: 0;
     font-family: 'PT Sans', sans-serif;
 }
 .fulltitle
 {
-    padding:0px 4px;
+    margin-left: 6%;
+    margin-right: 4%;
+    margin-bottom: 2%;
+    width: 40%;
+    float:left;
 }
+#wel
+{
+    margin-top: 2%;
+}
+
 .title
 {
     color: rgb(0, 197, 76);
 }
+#profile1
+{
+    width: 35%;
+    float: left;
+}
+#bio
+{
+    color: crimson;
+    margin-right: 2%;
+    float: left;
+    width: 60%;
+}
+.top-banner
+{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section
+{
+    height: 500px;
+}
+

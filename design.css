@@ -9,7 +9,11 @@ h2
 {
     font-size: 30px;
 }
-
+.description
+{
+    color:dimgray;
+    width:85%
+}
 .fulltitle
 {
     margin-left: 5%;
@@ -54,9 +58,5 @@ section
     background-image: linear-gradient(45deg, rgb(251, 255, 7),yellow;
     
 }
-.description
-{
-    width: 100%;
-    height: 25px;
-}
+
 

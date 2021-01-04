@@ -4,10 +4,9 @@ body{
 }
 .fulltitle
 {
-    margin-left: 6%;
-    margin-right: 4%;
-    margin-bottom: 2%;
-    width: 40%;
+    margin-left: 5%;
+    margin-right: 3%;
+    width: 42%;
     float:left;
 }
 #wel
@@ -21,7 +20,7 @@ body{
 }
 #profile1
 {
-    width: 35%;
+    width: 32%;
     float: left;
 }
 #bio
@@ -29,7 +28,8 @@ body{
     color: crimson;
     margin-right: 2%;
     float: left;
-    width: 60%;
+    width: 58%;
+
 }
 .top-banner
 {
@@ -39,5 +39,15 @@ body{
 section
 {
     height: 500px;
+}
+.link-button
+{
+    text-decoration: none;
+    color: seashell;
+    background-color: springgreen;
+    padding:2px 20px;
+    border-radius: 8px;
+    background-image: linear-gradient(45deg, rgb(251, 255, 7),yellow;
+    
 }
 

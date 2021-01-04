@@ -72,6 +72,15 @@ section
     background-position: left;
     background-color:seashell;
 }
+.middle
+{
+    text-align: center;
+    color:darkviolet;
+    padding-top: 2%;
+    border-radius: 10px;
+    width: 100%;
+    text-shadow: dimgray;
+}
 #full-stack
 {
     border-left: 3px solid red;
@@ -95,6 +104,7 @@ section
     padding:2px 20px;
     border-radius: 8px;
     background-image: linear-gradient(45deg, rgb(251, 255, 7),yellow;
+    border-image-slice: 1;
     
 }
 

@@ -75,11 +75,12 @@ section
 .middle
 {
     text-align: center;
-    color:darkviolet;
+    color:darkgreen;
     padding-top: 2%;
     border-radius: 10px;
     width: 100%;
     text-shadow: dimgray;
+
 }
 #full-stack
 {

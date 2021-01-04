@@ -21,6 +21,7 @@ h2
     width: 40%;
     float:left;
     padding: 10px;
+    background-color: white;
     
 }
 #wel
@@ -91,6 +92,8 @@ section
 {
     border-left: 3px solid blue;
     border-right: 3px solid blue;
+    border-image-slice: ;
+}
 }
 .pad
 {
@@ -105,9 +108,7 @@ section
     padding:2px 20px;
     border-radius: 8px;
     background-image: linear-gradient(45deg, rgb(251, 255, 7),yellow;
-    border-image-slice: 1;
     
-}
 
 
 
